@@ -1,0 +1,58 @@
+body {
+    background-color: #0f0f1a; 
+    color: #00ffcc;
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4b0082; 
+    padding: 20px;
+    border-bottom: 5px solid #00ffcc; 
+}
+
+h1 {
+    font-size: 40px;
+    text-shadow: 2px 2px #ff00ff; 
+}
+
+
+.caja-principal {
+    background-color: #1a1a2e;
+    width: 80%; 
+    margin: 20px auto; 
+    padding: 20px;
+    border: 3px dashed #ff00ff; 
+    border-radius: 15px; 
+}
+
+
+.foto-perfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    border: 4px solid #00ffcc;
+}
+
+
+.lista-juegos {
+    list-style-position: inside; 
+    font-size: 18px;
+    color: white;
+}
+
+
+.galeria img {
+    margin: 10px; 
+    border: 2px solid white;
+}
+
+
+footer {
+    background-color: #000000;
+    color: gray;
+    padding: 10px;
+    border-top: 5px solid #00ffcc;
+}
